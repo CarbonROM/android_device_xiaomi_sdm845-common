@@ -108,8 +108,6 @@ persist.dbg.vt_avail_ovr=1
 persist.dbg.wfc_avail_ovr=1
 
 # Listen
-ro.audio.soundtrigger=sva
-ro.audio.soundtrigger.lowpower=true
 ro.vendor.audio.soundtrigger=sva
 ro.vendor.audio.soundtrigger.lowpower=true
 ro.vendor.audio.soundtrigger.20.key.level=40

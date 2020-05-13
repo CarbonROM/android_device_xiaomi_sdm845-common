@@ -55,6 +55,10 @@ sdm.debug.disable_inline_rotator_secure=1
 # IMS
 persist.vendor.ims.disableUserAgent=0
 
+# Listen
+ro.audio.soundtrigger=sva
+ro.audio.soundtrigger.lowpower=true
+
 # Media
 media.settings.xml=/vendor/etc/media_profiles_vendor.xml
 
