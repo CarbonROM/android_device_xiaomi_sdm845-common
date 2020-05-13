@@ -129,9 +129,9 @@ PRODUCT_PACKAGES += \
     android.hardware.contexthub@1.0-impl.generic \
     android.hardware.contexthub@1.0-service
 
-# Device-specific settings
+# Xiaomi Doze
 PRODUCT_PACKAGES += \
-    XiaomiParts
+    XiaomiDoze
 
 # Display
 PRODUCT_PACKAGES += \
